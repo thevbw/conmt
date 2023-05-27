@@ -3,7 +3,8 @@ conMT
 
 ConMT is a technically free open-source voxel game library with easy license skirting and game creation.
 
-ConMT copyright (c) 2023
+ConMT copyright (c) 2023 Victor BW <knodewaeee@gmail.com>
+
 Minetest parent work copyright (C) 2010-2022 Perttu Ahola <celeron55@gmail.com> and contributors (see source file comments and the version control log)
 
 Compiling
@@ -19,7 +20,7 @@ no
 
 Version scheme
 --------------
-We use `major.minor.patch` as per Vulkan.
+We use `major.minor.patch` as per future Vulkan compatibility that I'll never implement.
 
 - Major is incremented when the release is a major redo (contains breaking changes), all other
 numbers are set to 0.
